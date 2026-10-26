@@ -54,3 +54,7 @@ This project demonstrates how Python-based exploratory data analysis and AI-assi
 Author
 
 Pavika E.
+
+## Project Results
+
+![EDA Screenshot](your-screenshot.png)
